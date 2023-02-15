@@ -1,0 +1,23 @@
+.navbar{
+    height: 10vh;
+    background-color: #FFE475;;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1em;
+
+}
+
+.cart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 7px;
+    border-radius:  100px;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-top:3px ;
+    padding-bottom:3px ;
+    background-color: aliceblue;
+
+}

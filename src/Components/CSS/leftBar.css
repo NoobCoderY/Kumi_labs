@@ -1,0 +1,26 @@
+.leftbarContent {
+  width: 13vw;
+  color: #737d94;
+  padding: 10px 25px 10px 13px;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 16px;
+  line-height:140%;
+  cursor: pointer;
+  border-radius: 10px;
+
+}
+
+.leftbarContent:hover {
+  background: #5da9e9;
+  color: #ffffff
+}
+
+.leftBar{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 6px;
+}

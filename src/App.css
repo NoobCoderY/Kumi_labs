@@ -1,0 +1,34 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+h5{
+  font-family: 'Muli';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 10%;
+/* or 22px */
+
+/* Neutral/Light Gray */
+
+color: #B6BAC3;
+}
+h4{
+  font-family: 'Muli';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 10%;
+/* or 22px */
+
+
+/* Neutral/Dark Blue */
+
+color: #100E3A;
+}
+::-webkit-scrollbar{
+  width: 0px;
+}
